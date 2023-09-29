@@ -1,7 +1,7 @@
 # MetagenomeWorkflow_Temp
 Temporary repo for my metagenome analysis workflow
 
-The following procedure step numbers correspond to the scripts used for those steps.
+The following procedure step numbers correspond to the scripts used for those steps. I have also added a folder with some R scripts that I am using to analyze some Salton Sea water metagenomes.
 
 | Procedure    | Program |
 | -------- | ------- |
